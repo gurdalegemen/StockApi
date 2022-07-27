@@ -1,0 +1,17 @@
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Dto.deps.json
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Dto.runtimeconfig.json
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Dto.pdb
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\bin\Debug\net6.0\StockApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.csproj.CopyComplete
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\refint\StockApi.Dto.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.pdb
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\StockApi.Dto.genruntimeconfig.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Dto\obj\Debug\net6.0\ref\StockApi.Dto.dll

@@ -1,0 +1,14 @@
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\bin\Debug\net6.0\StockApi.Base.deps.json
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\bin\Debug\net6.0\StockApi.Base.runtimeconfig.json
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\bin\Debug\net6.0\StockApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\bin\Debug\net6.0\StockApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.csproj.AssemblyReference.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.AssemblyInfoInputs.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.AssemblyInfo.cs
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.csproj.CoreCompileInputs.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\refint\StockApi.Base.dll
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.pdb
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\StockApi.Base.genruntimeconfig.cache
+C:\Users\Egemen Gürdal\source\repos\StockApi\StockApi.Base\obj\Debug\net6.0\ref\StockApi.Base.dll
