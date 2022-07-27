@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StockApi",
+    "\\StockApi.Data",
+    "\\StockApi.Data\\Repository",
+    "\\StockApi.Data\\Repository\\Concrete",
+    "\\StockApi\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\Egemen Gürdal\\Source\\Repos\\stock-api",
+  "SelectedNode": "\\StockApi.Data\\Repository\\Concrete\\BaseRepository.cs",
   "PreviewInSolutionExplorer": false
 }
