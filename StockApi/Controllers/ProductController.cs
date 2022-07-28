@@ -26,6 +26,11 @@ namespace StockApi.Controllers
         public  JsonResult GetById(int id)
         {
             var product =  _productRepository.GetByIdAsync(id);
+            if(product.IsDeleted || product is null)
+            {
+                return new JsonResult("No record or deleted!");
+            }
+
             return new JsonResult(product);
 
         }

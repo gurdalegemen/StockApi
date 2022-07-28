@@ -9,6 +9,5 @@ namespace StockApi.Data.Repository.Abstract
         Task InsertAsync(Entity entity);
         void UpdateAsync(Entity entity);
         void DeleteAsync(Entity entity);
-        Task<IEnumerable<Entity>> FindAsync(Expression<Func<Entity, bool>> expresion);
     }
 }

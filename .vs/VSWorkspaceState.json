@@ -1,7 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StockApi",
     "\\StockApi.Data",
     "\\StockApi.Data\\Repository",
     "\\StockApi.Data\\Repository\\Concrete",

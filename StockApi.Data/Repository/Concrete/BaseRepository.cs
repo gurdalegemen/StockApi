@@ -25,20 +25,18 @@ namespace StockApi.Data.Repository.Concrete
             unitOfWork.CompleteAsync();
         }
 
-        public async Task<IEnumerable<Entity>> FindAsync(Expression<Func<Entity, bool>> expresion)
-        {
-            return await ent.Where(expresion).ToListAsync();
-        }
 
         public async Task<IEnumerable<Entity>> GetAllAsync()
         {
-            return await ent.AsNoTracking().ToListAsync();
+
+            return await ent.Where(entity => EF.Property<bool>(entity,"IsDeleted") == false).AsNoTracking().ToListAsync();
         }
 
         public  Entity GetByIdAsync(int id)
         {
+            
             return ent.Find(id);
-            //return  ent.FindAsync(id);
+
         }
 
         public async Task InsertAsync(Entity entity)
