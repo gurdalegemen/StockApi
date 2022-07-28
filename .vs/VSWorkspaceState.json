@@ -3,8 +3,7 @@
     "",
     "\\StockApi.Data",
     "\\StockApi.Data\\Repository",
-    "\\StockApi.Data\\Repository\\Concrete",
-    "\\StockApi\\Controllers"
+    "\\StockApi.Data\\Repository\\Concrete"
   ],
   "SelectedNode": "\\StockApi.Data\\Repository\\Concrete\\BaseRepository.cs",
   "PreviewInSolutionExplorer": false

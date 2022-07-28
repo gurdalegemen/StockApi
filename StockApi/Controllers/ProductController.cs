@@ -15,14 +15,14 @@ namespace StockApi.Controllers
             _productRepository = productRepository;
         }
 
-        [HttpGet]
+        [HttpGet("GetAll")]
         public async Task<JsonResult> GetAll()
         {
             var product = await _productRepository.GetAllAsync();
             return new JsonResult(product);
         }
 
-        [HttpGet("{id:int}")]
+        [HttpGet("GetBy{id:int}")]
         public  JsonResult GetById(int id)
         {
             var product =  _productRepository.GetByIdAsync(id);
@@ -61,7 +61,7 @@ namespace StockApi.Controllers
         }
 
         [HttpPut("Update")]
-        public void Update(int id,string ProductName, double ProductPrice, int ProductCount)
+        public JsonResult Update(int id,string ProductName, double ProductPrice, int ProductCount)
         {
             var product = _productRepository.GetByIdAsync(id);
 
@@ -75,7 +75,11 @@ namespace StockApi.Controllers
                     product.ProductCount = ProductCount;
 
                 _productRepository.UpdateAsync(product);
+
+                return new JsonResult(product);
             }
+
+            return new JsonResult("No record or deleted!");
 
         }
 
